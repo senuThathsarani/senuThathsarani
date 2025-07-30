@@ -9,15 +9,14 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **OOP with Java**
+- 🌱 I’m studied **computing & software Engineering HD**
 
-- 🧑‍🎓 I’m an Undergraduate at **SLIIT**
+- 🧑‍🎓 I’m an Undergraduate at **ICBT**
 
-- 💬 Ask me about **Web development | OOC**
+- 💬 I'm interested **Web development | Mobile Development**
 
-- 📫 How to reach me **kaveen.dinethma@gmail.com**
-  
-- ⚡ Fun fact **Call me as KD**
+- 📫 How to reach me **senurithathsarani02@gmail.com**
+
 
 </td>
 <td width="50%" align="center">
